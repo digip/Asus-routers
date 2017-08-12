@@ -17,7 +17,6 @@ reboot
 killall -9 nas #network attached storage, kill if not using
 killall -9 u2ec #usb to Ethernet connector, who uses this???
 killall -9 wanduck	#fuck a duck, unless you have more than one WAN, kill this
-killall -9 watchdog	#no dogs allowed, ok to stop this, or it will restart stuff when we don't want it to - this could cause system issues
 killall -9 wpsaide	#wireless protected shite, STFU, GTFO
 killall -9 mDNSNetMonitor #no apple shite on my network!
 service stop_lpd #line printer services on a router. why? I'm not printing or logging shite
