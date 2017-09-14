@@ -25,3 +25,4 @@ netstat -antlu	#DNS and your HTTPS port for administration are all you need. por
 #you should now have quieted down your router and closed unnecessary ports
 #rebooting will start the programs above, but not the nvram set items, kill them each reboot to close those ports
 #if you find any of these issues cause problems for you, then reverse the nvram set to 1, reboot, all should be back to default.
+
